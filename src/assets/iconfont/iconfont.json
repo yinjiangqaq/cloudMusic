@@ -1,0 +1,30 @@
+{
+  "id": "1797783",
+  "name": "cloud-music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7685161",
+      "name": "listen",
+      "font_class": "listen",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "1190400",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e8bd",
+      "unicode_decimal": 59581
+    },
+    {
+      "icon_id": "11792265",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
