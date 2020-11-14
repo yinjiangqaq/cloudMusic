@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 import style from '../../assets/global-style'
 
+//content样式组件，固定高度
 export const Content = styled.div`
 position: fixed;
 top: 90px;

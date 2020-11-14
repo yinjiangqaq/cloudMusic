@@ -66,3 +66,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## about backend
+
+### github source
+
+https://github.com/Binaryify/NeteaseCloudMusicApi/tree/master
+
+step:
+
+```
+$ git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+
+$ npm install
+
+$ node app.js
+```
